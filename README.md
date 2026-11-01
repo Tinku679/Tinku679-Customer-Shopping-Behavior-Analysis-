@@ -58,7 +58,7 @@ Loaded the prepared data into SQL Server and used SQL queries to investigate:
 
 Created an interactive dashboard to explore customer shopping behavior.
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
+![Customer Shopping Behavior Dashboard](https://github.com/Tinku679/Tinku679-Customer-Shopping-Behavior-Analysis-/blob/main/Dashboard-Customer%20Shopping.pbix)
 
 **Dashboard highlights:**
 
